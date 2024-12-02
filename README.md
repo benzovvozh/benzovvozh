@@ -1,4 +1,4 @@
-![👋 Hi, my name is Vladimir](![Header](benzovvozh/github-header-image.png))
+![image](github-header-image.png)
 
 ![Profile views](https://komarev.com/ghpvc/?username=benzovvozh&label=Profile%20views&color=0e75b6&style=flat)
 
