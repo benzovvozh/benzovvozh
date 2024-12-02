@@ -19,6 +19,9 @@
   <a href="https://www.instagram.com/benzovvozh" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px">
   </a>
+  <a href="https://t.me/benzovvozh" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" height="28" style="margin-right: 4px">
+  </a>
 </p>
 
 ---
