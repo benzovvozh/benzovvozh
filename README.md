@@ -50,10 +50,11 @@ Java is a versatile language, widely used in web applications, mobile developmen
 
 ### Rapid Fire 🔥
 
-- 💼 **Currently working on**: [Difference Calculator](https://github.com/benzovvozh/java-project-71)
+- 💼 **Currently working on**: [Data validator](https://github.com/benzovvozh/java-project-78)
 - 🌱 **Currently learning**: Java OOP
-- 📂 **Portfolio**: 
+- 📂 **Portfolio**:
   - [Difference Calculator](https://github.com/benzovvozh/java-project-71)
+  - [Data validator](https://github.com/benzovvozh/java-project-78)
   - [BrainGames](https://github.com/benzovvozh/java-project-61)
 
 ---
