@@ -26,6 +26,17 @@
 
 ---
 
+### Rapid Fire 🔥
+
+- 💼 **Currently working on**: [Data validator](https://github.com/benzovvozh/java-project-78)
+- 🌱 **Currently learning**: HTML + CSS
+- 📂 **Portfolio**:
+  - [Difference Calculator](https://github.com/benzovvozh/java-project-71)
+  - [Data validator](https://github.com/benzovvozh/java-project-78)
+  - [BrainGames](https://github.com/benzovvozh/java-project-61)
+
+---
+
 ### About Me ✨
 I'm a **beginner Java developer**, passionate about learning programming and creating quality code.
 
@@ -41,21 +52,8 @@ I'm a **beginner Java developer**, passionate about learning programming and cre
 - Create impactful projects that solve real-world problems.
 
 #### 📚 Currently Learning:
-- **Java OOP**.
+- **HTML + CSS**.
 
-#### 🌟 Why Java?
-Java is a versatile language, widely used in web applications, mobile development, and enterprise systems. Its rigor, powerful tools, and supportive community make it my language of choice.
-
----
-
-### Rapid Fire 🔥
-
-- 💼 **Currently working on**: [Data validator](https://github.com/benzovvozh/java-project-78)
-- 🌱 **Currently learning**: Java OOP
-- 📂 **Portfolio**:
-  - [Difference Calculator](https://github.com/benzovvozh/java-project-71)
-  - [Data validator](https://github.com/benzovvozh/java-project-78)
-  - [BrainGames](https://github.com/benzovvozh/java-project-61)
 
 ---
 
