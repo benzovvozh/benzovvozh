@@ -42,16 +42,7 @@
 ### 4. [Brain games](https://github.com/benzovvozh/Brain-games)
 - **Описание**: Набор из пяти консольных игр для развития логического мышления. Каждая игра предлагает пользователю решить математическую задачу или головоломку.
 
-## Моя статистика на GitHub 📊
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benzovvozh&show_icons=true&theme=default)](https://github.com/benzovvozh)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benzovvozh&layout=compact&theme=default)](https://github.com/benzovvozh)
-
 ## Как со мной связаться? 📬
 
 - **Email**: [shuvlaan@gmail.com](mailto:shuvlaan@gmail.com)
 - **Telegram**: [@benzovvozh](https://t.me/benzovvozh)
-
----
-
-⭐️ Буду рад сотрудничеству и новым знакомствам. Если у вас есть вопросы или предложения, пожалуйста, свяжитесь со мной! 😊
